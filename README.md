@@ -1,7 +1,15 @@
 #### src
  *  a user web register/login/active project with php/mysql/html
 
+ *  socket programming
  *  
+
+
+#### ios
+ - [ios] (https://www.coursera.org/learn/swift-programming)
+ - [Intro to iOS App Development with Swift] (https://www.udacity.com/wiki/ud585/project)
+ - [Spring 2016 - Innovating Across Technology, Business, and Marketplaces] (https://www.cs.princeton.edu/courses/archive/spring16/cos448/reading.html)
+ - [Sp 2013 - Innovating Across Technology, Business, & Markets] (http://www.cs.princeton.edu/courses/archive/spring13/cos448/web/schedule.html)
 
 #### reference
  * [Computer Systems: A programmer's Perspective](http://csapp.cs.cmu.edu/public/code.html)
